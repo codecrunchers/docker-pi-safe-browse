@@ -9,7 +9,7 @@ A 'safe' proxy for home connections; A Rasperrby PI Home Browsing Privacy Distro
 How to use:
 - Plug this into your router via the Ethernet port
 - Disable the internal wifi on the router (Optional but recommended)
-- Connect to this wireless receiver/network <sec-xxxx>
+- Connect to this wireless receiver/network
 ### Very Optional
 - buy one of these [Long range rooftop wifi rc/tx] https://www.irishwireless.net/point-to-point-kits/small-business-ptp and build a wireless metro network - route it out via free wifi spots or others. Needs adapter / h/w add on
 
