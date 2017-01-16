@@ -11,7 +11,7 @@ How to use:
 - Connect to this wireless receiver/network <sec-xxxx>
 - buy one of these [] https://www.irishwireless.net/point-to-point-kits/small-business-ptp and build a wireless metro network - route it out via free wifi spots or others. Needs adapter / h/w add on
 
-# Features
+# Features / Aspirations
 - Internet Filtering/Protection
 - IoT Device Anonymiser
 - Fastest DNS finder
