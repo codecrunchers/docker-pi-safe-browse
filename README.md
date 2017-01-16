@@ -1,5 +1,7 @@
 # # docker-pi-safe-browse
 [![N|Solid](icons/Raspi_Colour_R-200x200.png)]( http://www.raspberrypi.org )
+[![N|Solid](https://www.docker.com/sites/default/files/legal/small_v.png)]( https://www.docker.com/ )
+
 
 A 'safe' proxy for home connections; A Rasperrby PI Home Browsing Privacy Distro (Dockerised)
 
