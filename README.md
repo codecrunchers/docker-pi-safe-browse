@@ -11,7 +11,7 @@ How to use:
 - Disable the internal wifi on the router (Optional but recommended)
 - Connect to this wireless receiver/network
 ### Very Optional
-- buy one of these [Long range rooftop wifi rc/tx] https://www.irishwireless.net/point-to-point-kits/small-business-ptp and build a wireless metro network - route it out via free wifi spots or others. Needs adapter / h/w add on
+- buy one of these Long range rooftop wifi rc/tx [ttps://www.irishwireless.net/point-to-point-kits/small-business-ptp] and build a wireless metro network - route it out via free wifi spots or others. Needs adapter / h/w add on
 
 # Features / Aspirations
 - Internet Filtering/Protection
