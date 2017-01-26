@@ -14,8 +14,19 @@ How to use:
 ### Very Optional
 - buy one of these [Long range rooftop wifi rc/tx things] https://www.irishwireless.net/point-to-point-kits/small-business-ptp and build a wireless metro network - route it out via free wifi spots or others. Needs adapter / h/w add on
 
+### Plans 
+Build a tiny mobile one for Open Wifi Portals
+
 # Features / Aspirations
 - Internet Filtering/Protection
+- Running your own VPN
+
+Privatize your web traffic by securing unencrypted traffic, preventing cookies and other trackers, and masking your local computer's IP address
+Prevent your local ISP from logging DNS queries, by sending them from the VPN straight to Google's DNS servers
+Scan for and prevent access to viruses and malicious applications
+DNS via OpenVPN
+
+
 - IoT Device Anonymiser
 - Fastest DNS finder
 - VPN

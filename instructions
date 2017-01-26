@@ -1,0 +1,6 @@
+1 Install Arch Linux - configure ssh
+Log in
+ apt update
+ apt upgrade
+
+apt-get install openvpn easy-rsa
