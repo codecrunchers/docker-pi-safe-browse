@@ -1,0 +1,11 @@
+- hosts: all
+  become: true
+
+  roles:
+    - "tempreader-rrdtool"
+
+  vars:
+    ansible_user: "root"
+    ansible_ssh_private_key_file: "keys/id_rsa_pi_ansible_host"
+
+    script_install_path: "/home/pi/"
