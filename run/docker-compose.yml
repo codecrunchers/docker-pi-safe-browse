@@ -1,0 +1,12 @@
+version: '2'
+
+services:
+  raspberry1:
+    restart: always
+    image: philipz/rpi-raspbian bash
+    command:
+     - /bin/bash
+    volumes:
+     - /usr/bin/qemu-arm-static:/usr/bin/qemu-arm-static
+
+

@@ -6,9 +6,9 @@
     - firewall
 
   vars:
-    ansible_user: "root"
-    ansible_ssh_private_key_file: "keys/id_rsa_pi_ansible_host"
-    dbs_ssh_pubkey: "{{ lookup('file', 'keys/id_rsa_pi_ansible_host.pub') }}"
+    ansible_user: "pi"
+    ansible_ssh_private_key_file: "keys/id_rsa"
+    dbs_ssh_pubkey: "{{ lookup('file', 'keys/id_rsa.pub') }}"
 
     dbs_set_hostname: true
     dbs_set_locale: true
